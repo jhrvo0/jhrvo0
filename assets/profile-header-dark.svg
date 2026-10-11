@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="214" viewBox="0 0 880 214" role="img" aria-labelledby="title desc">
+  <title id="title">João Henrique — Desenvolvimento web, APIs e interfaces</title>
+  <desc id="desc">Cabeçalho do portfólio de João Henrique, de Recife. Um desenho abstrato de caminhos e conexões acompanha a apresentação.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 H 0 V 28" fill="none" stroke="#21324A" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="878" height="212" rx="16" fill="#111B2C" stroke="#2A3D54"/>
+  <rect x="566" y="18" width="290" height="178" rx="12" fill="url(#grid)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="36" y="40" fill="#AEC0D2" font-size="12" font-weight="700" letter-spacing="2">RECIFE, PE / JHRVO0</text>
+    <text x="33" y="105" fill="#F3F6FB" font-size="50" font-weight="700" letter-spacing="-1.3">João Henrique</text>
+    <text x="36" y="143" fill="#AEC0D2" font-size="19">Desenvolvimento web · APIs · Interfaces</text>
+    <rect x="36" y="177" width="52" height="4" rx="2" fill="#70D6B0"/>
+    <rect x="96" y="177" width="18" height="4" rx="2" fill="#F0A86A"/>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 602 153 H 646 Q 662 153 662 137 V 86 Q 662 70 678 70 H 754 Q 770 70 770 54 V 38" stroke="#70D6B0" stroke-width="7"/>
+    <path d="M 602 58 H 612 Q 628 58 628 74 V 100 Q 628 116 644 116 H 792 Q 808 116 808 132 V 175" stroke="#F0A86A" stroke-width="5"/>
+    <path d="M 706 177 V 137 Q 706 122 721 122 H 830" stroke="#AEC0D2" stroke-width="2" opacity="0.35"/>
+  </g>
+  <g fill="#111B2C" stroke="#70D6B0" stroke-width="4">
+    <circle cx="602" cy="153" r="8"/>
+    <circle cx="662" cy="116" r="9"/>
+    <circle cx="754" cy="70" r="8"/>
+  </g>
+  <g fill="#111B2C" stroke="#F0A86A" stroke-width="3">
+    <circle cx="602" cy="58" r="6"/>
+    <circle cx="808" cy="175" r="6"/>
+  </g>
+</svg>
